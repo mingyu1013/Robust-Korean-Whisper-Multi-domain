@@ -1,4 +1,4 @@
-# vanilla_lora_train.py
+# LoRA_train.py
 # -*- coding: utf-8 -*-
 """
 Whisper-small + Vanilla LoRA(q,v) — 공용 유틸(/home/work/cymg0001/preprocessed_audio/utils/kwhisper.py) 사용
