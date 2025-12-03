@@ -31,9 +31,9 @@ Stage 2에서 Encoder self-attention(q, v projection)에만 **5개의 expert MAS
 
 모델 구조도는 다음과 같다.
 
-```md
+
 ![Model Architecture](src/assets/model_arch.png)
-```
+
 
 ---
 
